@@ -1,5 +1,5 @@
 
-THIS PROJECT IS OPEN SOURCE AND ANYONE WHO NEEDS IT CAN TAKE IT AND MODIFY IT TO IMPROVE IT.
+THIS PROJECT IS OPEN SOURCE AND ANYONE WHO NEEDS IT CAN TAKE IT AND MODIFY IT TO IMPROVE IT. / ESTE PROYECTO ES DE CODIGO ABIERTO Y CUALQUIER PERSONA QUE LO NECESITE PUEDE TOMARLO Y MODIFICARLO PARA MEJORARLO.
 
 # Scientific-calculator
 Calculadora científica con algunos bugs próximos a solucionar, pero bastante completa. / Scientific calculator with some bugs to be fixed soon, but quite complete.
