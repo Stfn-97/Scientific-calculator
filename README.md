@@ -1,3 +1,6 @@
+
+THIS PROJECT IS OPEN SOURCE AND ANYONE WHO NEEDS IT CAN TAKE IT AND MODIFY IT TO IMPROVE IT.
+
 # Scientific-calculator
 Calculadora científica con algunos bugs próximos a solucionar, pero bastante completa. / Scientific calculator with some bugs to be fixed soon, but quite complete.
 AQUI EL CODIGO FUENTE EN C++ / HERE THE SOURCE CODE IN C++
